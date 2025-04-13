@@ -1,34 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Post Graduate Research Fellow at Yale's ISPS (Pre-Doc)
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: # leave blank to include all the news in the `_news` folder
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello, and welcome to my homepage! 
+
+I am a Postgraduate Associate and CSAP Predoctoral Fellow at the Institution for Social and Policy Studies at Yale University. In September 2025, I will join the Department of Political Science at the University of California, San Diego as a PhD student.
+
+My research focuses on American political institutions, political parties, and quantitative as well as computational methodology. My current work investigates ticket splitting in U.S. federal elections. I use survey data to explore the question: Who are ticket splitters, and what motivates them? To answer this, I employ panel data analysis and machine learning approaches.
+
+More broadly, my work combines a variety of research designs and data sources, including causal inference methods for observational data, text analysis, machine learning, large language models, and game theory.
+
+I hold an MSc in Political Economy from the University of Konstanz and a BA in Political Science and Public Law from the University of Mannheim. Prior to graduate school, I worked as Managing Editor at the peer-reviewed journal  [European Union Politics](https://journals.sagepub.com/home/eup), as a public-sector consultant at [PD-Berater der oeffentlichen Hand](https://www.pd-g.de/), and as a research assistant at New York University for Elisa Maria Wirsching and Hye Young You.

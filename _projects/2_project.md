@@ -1,81 +1,49 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: The Effect of Media Salience on Parliamentary Speech Behavior
+description: Master Thesis at the University of Konstanz
+img: assets/img/media_bundestag.jpg
+importance: 100
+category: Pre-PhD
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Abtract
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Research on the effects of media highlights the pivotal function of mass media as a transmitter
+between political actors and citizens. Mass media informs citizens about politics, but their reporting is
+subject to economic bias. This thesis contributes to the discussion of the influence of media on
+politicians’ behavior. More specifically, this thesis examines the effects of newspaper coverage on the
+speaking behavior of politicians in the German Bundestag in two distinct cases. Based on Proksch and
+Slapin’s (2012) model, I extend a formal model to capture the central transmitter function of mass
+media. Using a novel newspaper data set, I examine the effect of biased media coverage on politicians’
+behavior in a moderation and a moderated mediation analysis. The nuclear accident in Fukushima and
+the Russian attack on Ukraine serve as exogenous shocks for the mediation analysis. The results of the
+moderation analysis show the hypothesized differences in the speakers' selection of salient topics.
+However, the effect is not robust in the mediation analysis, where no differences and only a weak
+indirect effect are found.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ger_leg_speech_results1.png" title="Figure 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ger_leg_speech_results2.png" title="Figure 2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/ger_leg_speech_results3.png" title="Figure 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Overview of the presented results.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Further Links
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Further Links of our project can be found here:
 
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+- [**View the Repository on GitHub**](https://github.com/NiklasHaehn/Media_Parl_Speech)
+- [**Download the final paper (PDF)**](/assets/docs/240909_Master_Thesis.pdf)
