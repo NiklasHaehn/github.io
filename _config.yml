@@ -6,11 +6,12 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Niklas
 middle_name:
 last_name: Haehn
-contact_note: Email: nhaehn@ucsd.edu
+contact_note: >
+  Email: nhaehn@ucsd.edu
 description: 
   Welcome to my little academic blog. 
   From time to time, I publish updates on my academic work here.
-footer_text: 
+footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Niklas Haehn, Niklas, Haehn, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
