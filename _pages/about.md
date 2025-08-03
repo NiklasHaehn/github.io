@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student @University of California, San Diego
+subtitle: PhD Student at the University of California, San Diego
 
 profile:
   align: right
