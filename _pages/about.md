@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Post Graduate Research Fellow at Yale's ISPS (Pre-Doc)
+subtitle: PhD Student @University of California, San Diego
 
 profile:
   align: right

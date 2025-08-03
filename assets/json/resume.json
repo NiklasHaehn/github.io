@@ -6,18 +6,18 @@
     "email": "niklas.haehn@yale.edu",
     "phone": "",
     "url": "",
-    "summary": "A German-born computational political scientist. Currently working as a Pre-Doc at Yale University",
+    "summary": "A German-born computational political scientist. Currently working as a PhD student at UCSD",
     "location": {
-      "address": "71 Prospect Street",
-      "postalCode": "CT  06511",
-      "city": "New Haven",
+      "address": "Departmennt of Political Science",
+      "postalCode": "CA  92093",
+      "city": "LA Jolla",
       "countryCode": "US",
-      "region": "Connecticut"
+      "region": "California"
     }
   },
   "work": [
     {
-      "name": "Institution for Social and Policy Studies, Yale Princeton University",
+      "name": "Institution for Social and Policy Studies, Yale Princeton University, US",
       "position": "Postgraduate Associate and CSAP Predoctoral Fellow",
       "url": "https://csap.yale.edu/people/niklas-haehn",
       "startDate": "2024-08-01",
@@ -39,6 +39,17 @@
   //   }
   // ],
   "education": [
+        {
+      "institution": "University of California, US",
+      "location": "La Jolla, United States",
+      "url": "https://polisci.ucsd.edu/grad/index.html",
+      "area": "Political Science",
+      "studyType": "PhD",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "score": "",
+      "courses": ["Computational Social Science", "Interest Groups", "Social Media"]
+    },
     {
       "institution": "University of Konstanz, GER",
       "location": "Konstanz, Germany",
@@ -80,8 +91,7 @@
       "keywords": [
         "R",
         "Python",
-        "Stata",
-        "Large Language Models (Claude, GPT)"
+        "Stata"
       ]
     }
   ],
